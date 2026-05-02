@@ -1,0 +1,50 @@
+# 广西崇左本地RSS订阅源
+# 复制到: TrendRadar/config/custom/rss/广西崇左.txt
+
+# ===== 政府官网 =====
+https://www.chongzuo.gov.cn/rss.xml
+https://www.gxsf.gov.cn/news/rss
+
+# ===== 广西新闻 =====
+https://www.gxnews.com.cn/rss
+
+# ===== 崇左市本级媒体 =====
+# 崇左广播电视台
+https://www.czxmt.com/feed
+
+# 崇左新闻网（如果有）
+https://www.czxww.com/feed
+
+# ===== 广西公安/司法系统 =====
+https://www.gxgazx.gov.cn/rss
+https://www.gxpolice.com/rss
+
+# ===== 各区县政府官网 =====
+# 江州区
+http://www.jiangzhou.gov.cn/rss
+
+# 凭祥市
+http://www.pxzf.gov.cn/rss
+
+# 龙州县
+http://www.longzhou.gov.cn/rss
+
+# 宁明县
+http://www.ningming.gov.cn/rss
+
+# 扶绥县
+http://www.fusui.gov.cn/rss
+
+# 大新县
+http://www.daxin.gov.cn/rss
+
+# 天等县
+http://www.tiandeng.gov.cn/rss
+
+# ===== 补充：微博热搜API（通过newsnow项目）=====
+# newsnow API 获取微博、抖音等平台热榜
+# 此源由 TrendRadar 内置 newsnow 集成提供，无需额外配置
+
+# ===== 天气信息（可选）=====
+# 中国气象数据网（如需每日天气对舆情的影响分析）
+# 内置 weatherapi，免费注册获取 key
