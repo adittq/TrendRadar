@@ -135,7 +135,7 @@ notification:
     # 获取方式：微信关注"PushPlus"公众号，发送"Token"获取
     # 注意：PushPlus 通过 HTTP 接口推送，无需额外配置渠道
     generic_webhook:
-      webhook_url: "https://www.pushplus.plus/send?token="
+      webhook_url: "https://www.pushplus.plus/send?token=761157f436364ca982ebb17085b422f4"
       payload_template: "{\"content\":\"{content}\"}"
 
     # ===== Telegram =====
